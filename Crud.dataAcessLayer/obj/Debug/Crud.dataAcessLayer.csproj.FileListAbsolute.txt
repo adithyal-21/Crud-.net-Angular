@@ -1,0 +1,6 @@
+C:\Users\adith\source\repos\CRUD\Crud.dataAcessLayer\bin\Debug\Crud.dataAcessLayer.dll
+C:\Users\adith\source\repos\CRUD\Crud.dataAcessLayer\bin\Debug\Crud.dataAcessLayer.pdb
+C:\Users\adith\source\repos\CRUD\Crud.dataAcessLayer\obj\Debug\Crud.dataAcessLayer.csproj.AssemblyReference.cache
+C:\Users\adith\source\repos\CRUD\Crud.dataAcessLayer\obj\Debug\Crud.dataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\adith\source\repos\CRUD\Crud.dataAcessLayer\obj\Debug\Crud.dataAcessLayer.dll
+C:\Users\adith\source\repos\CRUD\Crud.dataAcessLayer\obj\Debug\Crud.dataAcessLayer.pdb
